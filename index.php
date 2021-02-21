@@ -31,7 +31,7 @@
 
   ?>
 
-  <img src='<?php echo "img/$imageName"; ?>' />
+  <img height="700" src='<?php echo "img/$imageName"; ?>' />
 
 </body>
 
