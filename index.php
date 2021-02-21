@@ -9,6 +9,7 @@
 <body>
 
   <?php
+
     $folder = 'img';
     $files = scandir($folder);
 
@@ -32,6 +33,8 @@
   ?>
 
   <img height="700" src='<?php echo "img/$imageName"; ?>' />
+  <br />
+  <a href=' <?php echo "img/$imageName" ?> '>Permalink</a>
 
 </body>
 
