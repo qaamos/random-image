@@ -32,6 +32,8 @@
 
   ?>
 
+  <h2> <a href=".">Get another meme</a> </h2>
+
   <img height="700" src='<?php echo "img/$imageName"; ?>' />
   <br />
   <a href=' <?php echo "img/$imageName" ?> '>Permalink</a>
